@@ -8,9 +8,11 @@ The project file of TouchDesigner Working With Pen Plotter Workshop
 [Axidraw](https://wiki.evilmadscientist.com/Axidraw_Software_Installation)
 
 ## Svgwrite
+https://github.com/raganmd/touchdesigner-sop-to-svg
+
 ### Windows
 [Python 3.5.1](https://www.python.org/downloads/release/python-351/)  
-cmd `pip install --target="C:\Program Files\Derivative\TouchDesigner099\bin\Lib\site-packages" svgwrite`
+`pip install --target="C:\Program Files\Derivative\TouchDesigner\bin\Lib\site-packages" svgwrite`
 
 ### MacOS
 [Python 3.5.1](https://www.python.org/downloads/release/python-351/)  
