@@ -7,6 +7,9 @@ The project file of TouchDesigner Working With Pen Plotter Workshop
 ## Axidraw
 [Axidraw](https://wiki.evilmadscientist.com/Axidraw_Software_Installation)
 
+## SVG Fonts
+[SVG Fonts](https://gitlab.com/oskay/svg-fonts)
+
 ## Svgwrite
 https://github.com/raganmd/touchdesigner-sop-to-svg
 
