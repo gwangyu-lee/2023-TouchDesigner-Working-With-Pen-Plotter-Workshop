@@ -11,7 +11,7 @@ The project file of TouchDesigner Working With Pen Plotter Workshop
 [SVG Fonts](https://gitlab.com/oskay/svg-fonts)
 
 ## Svgwrite
-https://github.com/raganmd/touchdesigner-sop-to-svg
+[sop to SVG](https://github.com/raganmd/touchdesigner-sop-to-svg)
 
 ### Windows
 [Python 3.5.1](https://www.python.org/downloads/release/python-351/)  
