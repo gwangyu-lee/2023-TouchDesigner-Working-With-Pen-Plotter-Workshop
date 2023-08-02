@@ -15,7 +15,7 @@ The project file of TouchDesigner Working With Pen Plotter Workshop
 
 ### Windows
 [Python 3.10](https://www.python.org/downloads/release/python-3100/)     
-`pip install --target="C:/Users/유저네임/AppData/Local/Programs/Python/Python310/Lib/site-packages" svgwrite`
+`py -m pip install --target="C:/Users/유저네임/AppData/Local/Programs/Python/Python310/Lib/site-packages" svgwrite`
 
 
 ### MacOS
