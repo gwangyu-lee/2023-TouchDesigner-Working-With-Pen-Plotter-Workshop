@@ -12,14 +12,12 @@ The project files of TouchDesigner Working With Pen Plotter Workshop
 ## SVG Fonts
 [SVG Fonts](https://gitlab.com/oskay/svg-fonts)
 
-## Svgwrite(using python 3.5.1)
-[SOP to SVG](https://github.com/raganmd/touchdesigner-sop-to-svg)
+## Svgwrite
 
 ### Windows
 [Python 3.10](https://www.python.org/downloads/release/python-3100/)  
 
 `py -m pip install --target="C:/Users/유저네임/AppData/Local/Programs/Python/Python310/Lib/site-packages" svgwrite`
-
 
 ### MacOS
 [Python 3.10](https://www.python.org/downloads/release/python-3100/)    
@@ -29,3 +27,6 @@ The project files of TouchDesigner Working With Pen Plotter Workshop
 `python3 get-pip.py`  
 
 `python3 -m pip install --target=/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages svgwrite`
+
+## Reference
+[SOP to SVG](https://github.com/raganmd/touchdesigner-sop-to-svg)
