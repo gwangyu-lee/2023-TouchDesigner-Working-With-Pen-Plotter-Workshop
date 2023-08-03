@@ -1,5 +1,5 @@
 # 2023-TouchDesigner-Working-With-Pen-Plotter-Workshop
-The project file of TouchDesigner Working With Pen Plotter Workshop
+The project files of TouchDesigner Working With Pen Plotter Workshop
 
 ## Inkscape
 [Inkscape 1.3](https://inkscape.org/release/inkscape-1.3/)
