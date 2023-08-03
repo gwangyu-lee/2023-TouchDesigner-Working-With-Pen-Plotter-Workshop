@@ -1,3 +1,5 @@
+![poster square](https://github.com/gwangyu-lee/2023-TouchDesigner-Working-With-Pen-Plotter-Workshop/assets/79373845/20527fc5-45db-4146-9ab9-d7ad12628f7f)
+
 # 2023-TouchDesigner-Working-With-Pen-Plotter-Workshop
 The project files of TouchDesigner Working With Pen Plotter Workshop
 
