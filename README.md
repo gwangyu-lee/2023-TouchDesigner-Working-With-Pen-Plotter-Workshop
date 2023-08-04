@@ -37,13 +37,13 @@ Open terminal and type:
 
 Add Python 64-bit module path.
 
-![python module path](https://github.com/gwangyu-lee/2023-TouchDesigner-Working-With-Pen-Plotter-Workshop/assets/79373845/3d82d935-62e4-4667-8ce3-1c4bc36c8723)
-
 #### Windows
 `C:/Users/USERNAME/AppData/Local/Programs/Python/Python310/Lib/site-packages`
 
 #### MacOS
 `/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages`
+
+![python module path](https://github.com/gwangyu-lee/2023-TouchDesigner-Working-With-Pen-Plotter-Workshop/assets/79373845/3d82d935-62e4-4667-8ce3-1c4bc36c8723)
 
 ## Reference
 [SOP to SVG](https://github.com/raganmd/touchdesigner-sop-to-svg)
