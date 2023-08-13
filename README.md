@@ -20,7 +20,7 @@ The project files of TouchDesigner Working With Pen Plotter Workshop
 Open cmd and type:
 
 `py -m pip install --target="C:/Users/USERNAME/AppData/Local/Programs/Python/Python310/Lib/site-packages" svgwrite`
-Please change USERNAME.
+(Please change USERNAME)
 
 ### MacOS
 [Python 3.10](https://www.python.org/downloads/release/python-3100/)    
